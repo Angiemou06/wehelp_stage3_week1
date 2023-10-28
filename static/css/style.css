@@ -1,0 +1,43 @@
+
+.text-input{
+    display: flex;
+}
+
+.text{
+    margin-right: 5px;
+}
+
+.img-input{
+    display: flex;
+    margin-top: 5px;
+    align-items: center;
+}
+
+#submit{
+    margin-top: 5px;
+}
+
+.hr-con {
+    width: 100%;
+    text-align: center; /* 水平居中 */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hr-con hr {
+    margin: 0 auto; /* 水平居中 */
+    width: 99%;
+}
+
+.img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.board-text{
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
